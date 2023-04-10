@@ -6,10 +6,10 @@
 	date_default_timezone_set('America/Guatemala');
 
 	//Datos de conexión a Base de Datos
-	const DB_HOST = "dbtiendavirtual.cgzfhllb8xk0.us-east-2.rds.amazonaws.com";
+	const DB_HOST = "192.168.1.151";
 	const DB_NAME = "db_tiendavirtual";
-	const DB_USER = "root";
-	const DB_PASSWORD = "Mario123";
+	const DB_USER = "instalador";
+	const DB_PASSWORD = "instalador";
 	const DB_CHARSET = "utf8";
 
 	//Para envío de correo
